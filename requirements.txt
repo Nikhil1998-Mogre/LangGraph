@@ -1,0 +1,11 @@
+langgraph
+typing_extensions
+# ipymermaid
+langchain_openai
+langchain_groq
+dotenv
+langchain_community
+sentence-transformers
+chromadb
+opencv-python
+langgraph-cli[inmem]
